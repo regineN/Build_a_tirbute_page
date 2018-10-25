@@ -72,6 +72,11 @@ h2 {
   /* article */
 /* ------------------------------------------------------------------ */
 
+.col-centered {
+    margin:0 auto;
+    padding-top:20px;
+}
+
 #tribute-info {
     margin-top:20px;    
 }
